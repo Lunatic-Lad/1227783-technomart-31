@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Влад Байдюк](https://up.htmlacademy.ru/htmlcss/31/user/1227783).
-* Наставник: `Неизвестно`.
+* Наставник: `[Дмитрий Дроганов](https://htmlacademy.ru/profile/dmdragon)`.
 
 ---
 
